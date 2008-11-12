@@ -1,0 +1,7 @@
+This repository is currently empty.  If you are looking for the Hurd,
+GNU Mach or MIG, they still exist in CVS:
+
+  https://savannah.gnu.org/cvs/?group=hurd
+
+The web site is in the hurd/web.git repository, and viengoos is in the
+hurd/viengoos.git repository.
